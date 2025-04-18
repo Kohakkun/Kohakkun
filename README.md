@@ -5,3 +5,5 @@
 🔧 I thrive in collaborative team environments, enjoy analytical problem-solving, and welcome new challenges as opportunities to grow.
 
 🚀 Actively working on various tech projects, both individually and in teams, with the goal of creating impactful and sustainable digital solutions.
+
+Check out my projects: https://github.com/Kohakkun?tab=repositories
